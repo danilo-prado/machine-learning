@@ -1,3 +1,3 @@
 # MACHINE LEARNING
 
-Este repositório contém estudos de modelos de Machine Learning.
+Este repositório contém projetos de estudos de Machine Learning, separados pelas categorias Regressão, Classificação e Clusterização.
